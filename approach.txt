@@ -1,0 +1,9 @@
+Pushpak Gote
+
+1.	Fixed missing values
+2.	Analysed data by plotting charts 
+3.	Tried to remove outliers
+4.	Created new columns about current time and past energy consumptions
+5.	Trained data using cross validation
+6.	Predicted data 
+7.	Generated solution.csv 
